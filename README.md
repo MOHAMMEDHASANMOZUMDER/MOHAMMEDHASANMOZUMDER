@@ -147,4 +147,4 @@ Full-Stack Web Development
 Backend Engineering
 System Design
 Data Structures and Algorithms
-Proble Solving
+Problem Solving
