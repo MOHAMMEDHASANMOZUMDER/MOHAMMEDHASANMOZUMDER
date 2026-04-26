@@ -1,28 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2F80ED&height=180&section=header&text=Hi,%20I'm%20Mohammed Hasan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+# Hi, I'm Hasan
 
 ### Full-Stack Web Developer | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+clean+and+scalable+applications;Focused+on+quality%2C+performance%2C+and+user+experience;Always+learning+and+improving" alt="Typing SVG" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Building+clean+and+scalable+applications;Creating+modern+web+experiences;Focused+on+performance+and+user+experience" 
+  alt="Typing SVG" 
+/>
 
 </div>
+
+<br>
 
 ---
 
 ## About Me
 
-I am a motivated software developer focused on building practical, efficient, and user-centered digital solutions. I enjoy turning ideas into functional applications and continuously improving my skills through real-world projects, problem solving, and modern development practices.
+I am a motivated **Full-Stack Web Developer** focused on building practical, efficient, and user-centered digital solutions. I enjoy transforming ideas into functional applications and continuously improving my skills through real-world projects, problem solving, and modern development practices.
 
-- Passionate about **full-stack web development** and clean software architecture  
-- Interested in building **responsive, scalable, and user-friendly applications**  
-- Strong focus on **problem solving, system design, and maintainable code**  
-- Open to collaborating on **open-source projects and real-world software solutions**  
-- Continuously learning new technologies to improve my development workflow  
+- Passionate about building **responsive and scalable web applications**
+- Focused on writing **clean, maintainable, and efficient code**
+- Interested in **frontend development, backend engineering, and system design**
+- Always improving through **projects, learning, and problem solving**
+- Open to collaborating on **open-source and real-world software projects**
 
 <div align="center">
 
-### “I build software with purpose, performance, and user experience in mind.”
+### I build software with purpose, performance, and user experience in mind.
 
 </div>
 
