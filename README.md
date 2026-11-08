@@ -35,7 +35,7 @@ also improving my problem-solving and Data Structures & Algorithms skills.
 * 🧠 Practicing **Data Structures & Algorithms**
 * 🚀 Building projects that solve practical problems
 * 🤝 Interested in **open-source, internships, and collaborative projects**
-📍 Chittagong, Bangladesh
+* 📍 Chittagong, Bangladesh
 
 <div align="center">
 
