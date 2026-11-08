@@ -229,19 +229,6 @@ Full-Stack Web Development
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img
-width="48%"
-src="https://github-readme-stats.vercel.app/api?username=MOHAMMEDHASANMOZUMDER&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-alt="Hasan's GitHub Statistics"
-/>
-
-<img
-width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMEDHASANMOZUMDER&layout=compact&theme=github_dark&hide_border=true"
-alt="Hasan's Most Used Languages"
-/>
-
 <br><br>
 
 <img
