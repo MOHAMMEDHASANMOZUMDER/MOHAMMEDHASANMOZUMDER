@@ -29,13 +29,13 @@ My current focus is on developing strong foundations in **React, Next.js,**
 also improving my problem-solving and Data Structures & Algorithms skills.
 
 * 🎓 CSE Undergraduate at **Chittagong University of Engineering & Technology**
-* 📍 Based in **Chittagong, Bangladesh**
 * 💻 Focused on **Full-Stack & Backend Web Development**
 * 🌱 Currently learning **Next.js, TypeScript, Node.js & backend architecture**
 * 🗄️ Working with **MongoDB, PostgreSQL & MySQL**
 * 🧠 Practicing **Data Structures & Algorithms**
 * 🚀 Building projects that solve practical problems
 * 🤝 Interested in **open-source, internships, and collaborative projects**
+📍 Chittagong, Bangladesh
 
 <div align="center">
 
